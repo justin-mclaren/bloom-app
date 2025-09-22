@@ -1,7 +1,12 @@
 import ProjectDescription
 
 let config = Config(
-  generationOptions: [
-    .resolveDependenciesWithSystemScm
-  ]
+  project: .tuist(
+    generationOptions: .options(
+      additionalPackageResolutionArguments: [
+        "-scmProvider",
+        "system"
+      ]
+    )
+  )
 )
