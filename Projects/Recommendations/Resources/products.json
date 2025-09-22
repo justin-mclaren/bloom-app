@@ -1,0 +1,13 @@
+[
+  {"id":"c1","brand":"Acme","name":"Gentle Gel Cleanser","category":"cleanser","price":12.0,"tags":["fragrance-free","gel"],"spf":null},
+  {"id":"c2","brand":"GlowCo","name":"Citrus Foam Cleanser","category":"cleanser","price":16.0,"tags":["brightening"],"spf":null},
+  {"id":"t1","brand":"Acme","name":"2% BHA Serum","category":"treatment","price":14.0,"tags":["bha","acne","fragrance-free"],"spf":null},
+  {"id":"t2","brand":"Acme","name":"Vitamin C Radiance Serum","category":"treatment","price":19.0,"tags":["vitc","tone","fragrance-free"],"spf":null},
+  {"id":"t3","brand":"GlowCo","name":"Barrier Boosting Niacinamide","category":"treatment","price":17.0,"tags":["niacinamide","tone","fragrance-free"],"spf":null},
+  {"id":"t4","brand":"HydraLabs","name":"Hyaluronic Hydrating Drops","category":"treatment","price":18.0,"tags":["hydrating","fragrance-free"],"spf":null},
+  {"id":"m1","brand":"Acme","name":"Lightweight Gel Moisturizer","category":"moisturizer","price":15.0,"tags":["hydrating","lightweight","fragrance-free"],"spf":null},
+  {"id":"m2","brand":"Acme","name":"Barrier Repair Cream","category":"moisturizer","price":20.0,"tags":["rich","fragrance-free"],"spf":null},
+  {"id":"m3","brand":"GlowCo","name":"Scented Cloud Cream","category":"moisturizer","price":22.0,"tags":["rich"],"spf":null},
+  {"id":"s1","brand":"Acme","name":"Daily SPF 50","category":"spf","price":17.0,"tags":["spf","fragrance-free"],"spf":50},
+  {"id":"s2","brand":"GlowCo","name":"Mineral Shield SPF 30","category":"spf","price":25.0,"tags":["spf","mineral","fragrance-free"],"spf":30}
+]
