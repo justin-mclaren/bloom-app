@@ -33,5 +33,3 @@ workflows:
         key_id: $APP_STORE_CONNECT_KEY_ID
         issuer_id: $APP_STORE_CONNECT_ISSUER_ID
         submit_to_testflight: true
-    code_signing:
-      xcode_automatic_signing: true
